@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main (){
+    int a,b,multiply;
+    a=4,b=5;
+    multiply=a*b;
+    printf("Product:%d\n",multiply);
+}
