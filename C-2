@@ -1,0 +1,4 @@
+#include<stdio.h>
+int main (){
+    printf("Id:252002050\nName:Shanto\nDepartment:CSE(Computer Science and Engineering)\nUniversity Name: Green University");
+}
