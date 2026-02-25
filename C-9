@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main (){
+    float a,b;
+    scanf("%f%f",&a,&b);
+    printf("Number 1 = %f\nNumber 2 = %f\n",a,b);
+    printf("Product = (a + b)=%.3f",a,b,a+b);
+}
