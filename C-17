@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main (){
+    int a;
+    printf("Input the number:");
+    scanf("%d",&a);
+    printf("The number is:%d",a);
+    /*ami bhai kico pari na tai ai sob habi jabi lektachai bujcoo....,, ase kori 
+    r amar nam mohammod shanto*/
+    return 0;
+}
