@@ -1,0 +1,12 @@
+#include<stdio.h>
+ int main(){
+ int b;
+ float c;
+ char a;
+scanf("%d %f %c",&b,&c,&a);
+printf("The number is = %d",b);
+printf("\nThe cgpa is = %f",c);
+printf("\nThe cgpa is = %c",a);
+return 0;
+}
+
